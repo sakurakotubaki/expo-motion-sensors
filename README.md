@@ -23,7 +23,7 @@
 
 1. プロジェクトをクローン
 ```bash
-git clone [repository-url]
+git clone https://github.com/sakurakotubaki/expo-motion-sensors
 cd expo-motion-sensors
 ```
 
